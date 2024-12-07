@@ -18,3 +18,4 @@ JavaScriptとCanvasでSEGAの「ぷよぷよ」ゲームを再現しました。
 
 ## デモページ
 
+<https://saitogo555.github.io/puyopuyo/>
